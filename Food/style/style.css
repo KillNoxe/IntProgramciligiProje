@@ -1,0 +1,56 @@
+.container-fluid h1{
+    padding-top: 1%;
+    margin-left: 1.7%;
+}
+.container-fluid p{
+    margin-left: 2%;
+    padding-bottom: 5%;
+}
+ul{
+    margin-left: -2% !important;
+}
+.row{
+    margin-left: 2% !important;
+    margin-right: 0 !important;
+}
+.col img{
+    width: 260px;
+    height: 140px;
+}
+.ortala{
+    text-align: center;
+    width: 260px !important;
+}
+.text-middle{
+    width: 260px !important;
+    text-align: justify !important;
+    text-indent: 30px;
+}
+.col a{
+    width: 260px;
+    display: block; 
+    transition: 1s;
+    background-color: #2CA2B6;
+    border-radius: 10px;
+    text-align: center;
+    padding: 4px;
+    color: #fff;
+}
+.col a:hover{
+    text-decoration: none;
+    transition: 1s;
+    background-color: #fff;
+    color: #2CA2B6;
+}
+.copyright{
+    margin-top: 1%;
+    margin-left: 3.6% !important;
+    font-size: 12px;
+}
+.col{
+    height: 500px;
+}
+.detailcontainer{
+    margin-left: 35%;
+    margin-right: 35%;
+}
